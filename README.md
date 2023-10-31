@@ -26,7 +26,7 @@ To run the tests for the Pony Club project, use the following command:
    ```bash
     npm test
 
-Usage
+## Usage
 The main features of the Pony Club system include:
 
 Managing different types of ponies with specific abilities, such as walking, flying, and performing magic.
@@ -34,11 +34,11 @@ Handling user registrations and pony-related operations.
 Identifying users with the highest pony experience.
 To use the Pony Club system, refer to the example usage provided in the index.ts file.
 
-Project Structure
+## Project Structure
 The project has the following directory structure:
 
 src: Contains the source code files for the Pony Club management system.
 test: Includes the test files for the Pony Club project.
 
-Contributing
+## Contributing
 Contributions to the Pony Club project are always welcome. If you encounter any issues or would like to add new features, please feel free to open an issue or submit a pull request.
